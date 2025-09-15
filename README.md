@@ -6,8 +6,8 @@ Methods:
     - [x] SubprocVec
 
 Policy Networks:
-    - [ ] Feature Extraction
-        - [ ] Encoder
-        - [ ] Attention mechanism
-    - [ ] Batch Normalization
-    - [ ] Default Hyper-param 
+- [ ] Feature Extraction
+    - [ ] Encoder
+    - [x] Attention mechanism (Feature Extraction)
+- [x] Batch Normalization (Feature Extraction)
+- [ ] Default Hyper-param 

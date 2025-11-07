@@ -8,5 +8,5 @@
 - [ ] Feature Extraction
     - [ ] Encoder
     - [x] Attention mechanism (Feature Extraction)
-- [x] Batch Normalization (Feature Extraction)
+    - [x] Batch Normalization (Feature Extraction)
 - [ ] Default Hyper-param 
